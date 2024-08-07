@@ -13,8 +13,6 @@
 
 - 🔭 I’m currently working on **AWS Cloud**
 
-<--!- 📝 I regularly write articles on [https://hashnode.com/](https://hashnode.com/)-->
-
 - 💬 Ask me about **DevOps, AWS cloud required for DevOps**
 
 - 📫 How to reach me **niteshkr150296@gmail.com**
